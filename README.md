@@ -22,13 +22,6 @@ Inquisitive, tangible engineering-minded, and a systems thinker. I am just a sim
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaniiAndre10&theme=merko" alt="GitHub Streak" />
 
-### 🏆 My GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="LaniiAndre10 Trophies" />
-  </a>
-</p>
-
 ## Notable Certificates
+
 <p>Google CyberSecurity Specialization Certificate.</p>
