@@ -16,6 +16,7 @@ Inquisitive, tangible engineering-minded, and a systems thinker. I am just a sim
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>&nbsp;
 <img src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c#" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c++" width="40" height="40"/>&nbsp;
+<img src="[https://img.icons8.com/fluency/48/c-plus-plus-logo.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/960px-.NET_Core_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20210328084203)" alt="c++" width="40" height="40"/>&nbsp;
 </p>
 
 ## GitHub Stats
